@@ -7,7 +7,6 @@ function isUniqueChars(str){
       var val = str.charAt(i);
       if(char_set[val]){
         return false;
-        
       }
       char_set[val] = true;
     }

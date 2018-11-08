@@ -1,6 +1,3 @@
-// Q.Implement an algorithm to determine if a string has all unique characters 
-//   What if you can not use additional data structures?
-
 function isUniqueChars(str){
     var char_set = [256];
     for(var i=0; i<str.length; i++){

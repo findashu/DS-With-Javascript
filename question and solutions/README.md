@@ -18,4 +18,4 @@
     Example:
     sumOfNestedArray([1,[11,42,[8, 1], 4, [22,21]]]) returns 110
 
-
+### 4. Write a function that generates all possible combinations of 1 and 0 for n bits. For example, if the function receives 2 as the number of bits, it should produce the following 4 combinations: 00,01,10,11. You cannot use any mathematical operators.

@@ -1,5 +1,5 @@
-## Tasks to your mind 👍
-
+## Tasks to your mind :pouting_cat: 👍
+    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
 **Note** Try to solve by your own and then check the solution or compare with your own. 💯
 

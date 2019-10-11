@@ -19,3 +19,10 @@
     sumOfNestedArray([1,[11,42,[8, 1], 4, [22,21]]]) returns 110
 
 ### 4. Write a function that generates all possible combinations of 1 and 0 for n bits. For example, if the function receives 2 as the number of bits, it should produce the following 4 combinations: 00,01,10,11. You cannot use any mathematical operators.
+
+### 5. Given a list first and a number N, create a new list that contains each number of first at most N times without reordering. For example if N = 2, and the input is [1,2,3,1,2,1,2,3], you take [1,2,3,1,2], drop the next [1,2] since this would lead to 1 and 2 being in the result 3 times, and then take 3, which leads to [1,2,3,1,2,3].
+
+    Examples:
+    deleteNth ([1,1,1,1],2) // return [1,1]
+    deleteNth ([20,37,20,21],1) // return [20,37,21]
+    deleteNth([1,1,3,3,7,2,2,2,2], 3) // return [1, 1, 3, 3, 7, 2, 2, 2]

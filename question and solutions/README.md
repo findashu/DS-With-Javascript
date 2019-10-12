@@ -26,3 +26,13 @@
     deleteNth ([1,1,1,1],2) // return [1,1]
     deleteNth ([20,37,20,21],1) // return [20,37,21]
     deleteNth([1,1,3,3,7,2,2,2,2], 3) // return [1, 1, 3, 3, 7, 2, 2, 2]
+
+### 6. You will be given a number and you will need to return it as a string in Expanded Form. For example: 
+
+    Examples:
+    
+    expandedForm(12); // Should return '10 + 2'
+    expandedForm(42); // Should return '40 + 2'
+    expandedForm(70304); // Should return '70000 + 300 + 4'
+
+
